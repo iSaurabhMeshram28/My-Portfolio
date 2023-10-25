@@ -5,7 +5,7 @@ import AnimatedText from '@/components/AnimatedText'
 import Link from 'next/link'
 import Image from 'next/image'
 import { GithubIcon } from '@/components/Icons'
-import project1 from "../../public/images/projects/crypto-Screener-cover-image.jpg"
+import project1 from "../../public/images/projects/crypto-screener-cover-image.jpg"
 import {motion } from 'framer-motion'
 import TransitionEffect from '@/components/TransitionEffect'
 
