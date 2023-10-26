@@ -46,25 +46,18 @@ const Experience = () => {
                 className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light md:w-[2px] md:left-[30px] xs:left-[20px] ' />
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details
-                        position="Graduate Trainee(Software Development)" company="Bentley Systems"
+                        position="Graduate Trainee(Software Development)" company="Bentley Systems Pvt. Ltd"
                         companyLink="https://www.bentley.com/"
                         time="Nov 2022-present" address="Pune, Maharashtra, India"
                         work="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     />
 
                     <Details
-                        position="Graduate Trainee(Software Development)" company="Bentley Systems"
-                        companyLink="https://www.bentley.com/"
-                        time="Nov 2022-present" address="Pune, Maharashtra, India"
+                        position="Full-Stack Web Developer - Intern" company="AIRobotica Services Pvt. Ltd"
+                        companyLink="https://www.airobotica.com/"
+                        time="Sep 2022 - Oct 2021" address="Remote"
                         work="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    />
-
-                    <Details
-                        position="Graduate Trainee(Software Development)" company="Bentley Systems"
-                        companyLink="https://www.bentley.com/"
-                        time="Nov 2022-present" address="Pune, Maharashtra, India"
-                        work="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    />
+                    />                   
 
                 </ul>
             </div>
