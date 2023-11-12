@@ -5,7 +5,9 @@ import AnimatedText from '@/components/AnimatedText'
 import Link from 'next/link'
 import Image from 'next/image'
 import { GithubIcon } from '@/components/Icons'
-import project1 from "../../public/images/projects/crypto-screener-cover-image.jpg"
+import project1 from "../../public/images/projects/Jotion.png"
+import project2 from "../../public/images/projects/Discord.png"
+import project3 from "../../public/images/projects/crypto-screener-cover-image.jpg"
 import {motion } from 'framer-motion'
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -101,42 +103,40 @@ const projects = () => {
                     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0'>
                         <div className='col-span-12'>
                             <FeaturedProject
-                                title="Crypto Screener Application"
+                                title="JOTION - A NOTION CLONE"
                                 img={project1}
-                                summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-                            It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                            local currency."
+                                summary="Embarking on a personal project journey, I conceived and brought to life a dynamic platform blending Next.js 13 and React technologies. This innovative creation redefines real-time collaboration, featuring a Notion-style editor for fluid document interaction. Elevating user engagement, the interface offers a seamless transition between Light and Dark modes, coupled with an expandable sidebar for intuitive navigation. Empowering users, the platform provides unprecedented control—Infinite children documents, a soft-delete trash can, and efficient file management with real-time icon updates for an organized workflow. The tech stack, comprising Next.js 13, React, Convex, and Tailwind, serves as the robust foundation, ensuring a modern and efficient web application tailored to meet diverse user needs."
                                 link="/"
-                                github="/"
+                                github="https://github.com/iSaurabhMeshram28/Motion-A-Notion-Clone"
                                 type="Featured Project"
                             />
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                         <Project
-                                title="Crypto Screener Application"
-                                img={project1}
+                                title="ICHAT - REAL TIME CHATTING WEBAPP"
+                                img={project2}
                                 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
                             It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
                             local currency."
                                 link="/"
-                                github="/"
+                                github="https://github.com/iSaurabhMeshram28/IChat"
                                 type="Featured Project"
                             />
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                         <Project
-                                title="Crypto Screener Application"
-                                img={project1}
+                                title="SMARTSTUDIZ-DISCORD LIKE WEBAPP"
+                                img={project3}
                                 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
                             It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
                             local currency."
                                 link="/"
-                                github="/"
+                                github="https://github.com/iSaurabhMeshram28/SmartStudiz"
                                 type="Featured Project"
                             />
                         </div>
 
-                        <div className='col-span-12'>
+                        {/* <div className='col-span-12'>
                         <FeaturedProject
                                 title="Crypto Screener Application"
                                 img={project1}
@@ -171,7 +171,7 @@ const projects = () => {
                                 github="/"
                                 type="Featured Project"
                             />
-                        </div>
+                        </div> */}
                     </div>
 
                 </Layout>

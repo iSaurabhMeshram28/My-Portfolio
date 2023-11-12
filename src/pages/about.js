@@ -48,8 +48,8 @@ const about = () => {
                     <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                         <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
-                            <p className='font-medium'> Hi, I'm Saurabh, a web developer and UI/UX designer with a passion for creating beautiful, functional,
-                                and user-centered digital experiences. With 2 years of experience in the field. I am always looking for
+                            <p className='font-medium'> Hi, I'm Saurabh, a web developer with a passion for creating beautiful, functional,
+                                and user-centered digital experiences. With 1 year of experience in the field. I am always looking for
                                 new and innovative ways to bring my clients' visions to life.</p>
                             <p className='my-4 font-medium'>I believe that design is about more than just making things look pretty – it's about solving problems and
                                 creating intuitive, enjoyable experiences for users.</p>
@@ -71,28 +71,28 @@ const about = () => {
 
                             <div className='flex flex-col items-end justify-center xl:items-center'>
                                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                                    <AnimatedNumbers value={50} />+
+                                    <AnimatedNumbers value={9} />+
                                 </span>
                                 <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base
                                 xs:text-sm
-                                '>satisfied clients</h2>
+                                '>Projects completed</h2>
                             </div>
 
                             <div className='flex flex-col items-end justify-center xl:items-center'>
                                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                                    <AnimatedNumbers value={40} />+
-                                </span>
-                                <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base
-                                xs:text-sm'>Projects completed</h2>
-                            </div>
-
-                            <div className='flex flex-col items-end justify-center xl:items-center'>
-                                <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                                    <AnimatedNumbers value={2} />+
+                                    <AnimatedNumbers value={1} />+
                                 </span>
                                 <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base
                                 xs:text-sm'>years of experience</h2>
                             </div>
+
+                            {/* <div className='flex flex-col items-end justify-center xl:items-center'>
+                                <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
+                                    <AnimatedNumbers value={1} />+
+                                </span>
+                                <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base
+                                xs:text-sm'>years of experience</h2>
+                            </div> */}
                         </div>
                     </div>
 
