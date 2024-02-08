@@ -10,9 +10,7 @@
 
 <p align="center">Contributions are welcome! Feel free to open an issue or submit a pull request.</p>
 
-<h2 align="center">License</h2>
 
-<p align="center">This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 
 
