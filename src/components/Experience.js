@@ -49,14 +49,22 @@ const Experience = () => {
                         position="Graduate Trainee(Software Development)" company="Bentley Systems Pvt. Ltd"
                         companyLink="https://www.bentley.com/"
                         time="Nov 2022-present" address="Pune, Maharashtra, India"
-                        work="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        work="Actively engaged in web development with React.js, TypeScript, and Java,
+                        ensuring a seamless user experience. Proficient in React.js, JavaScript, HTML,
+                        and CSS.  Demonstrated expertise in optimizing app performance, and seamless
+                        front-end/back-end integration. Skilled in Redux for state management, and
+                        front-end build tools like Webpack and package managers such as npm/yarn. Contributed significantly to designing a specialized Project Management
+                        Software for Construction. Proficient in RESTful API integration, experienced
+                        in Azure DevOps for version control.  Fostered teamwork, open communication, and feedback for successful project
+                        outcomes. Strong problem-solving and debugging abilities in dynamic
+                        collaborative environments."
                     />
 
                     <Details
                         position="Full-Stack Web Developer - Intern" company="AIRobotica Services Pvt. Ltd"
                         companyLink="https://www.airobotica.com/"
                         time="Sep 2022 - Oct 2021" address="Remote"
-                        work="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        work="As a Full-Stack Web Developer Intern at AIRobotica Services Pvt. Ltd, I contributed to the development of an innovative online platform designed for studying purposes. This project, built on a Python web framework, Django, incorporates dynamic features aimed at enhancing user engagement and interaction. My responsibilities included developing and implementing an authentication system to ensure secure user access, as well as creating a robust back-end administration with powerful visualization capabilities. The platform provides users with the ability to create and join study rooms, facilitating discussions on various topics. Through my contributions, I helped create an intuitive and efficient space for users to collaborate and learn together seamlessly."
                     />                   
 
                 </ul>

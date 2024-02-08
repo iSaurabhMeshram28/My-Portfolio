@@ -45,8 +45,7 @@ const Education = () => {
                     <Details
                         type="Bachelor of Engineering In Computer Science and Engineering" time="June 2022"
                         place="Prof. Ram Meghe College of Engineering and Management, Amravati"
-                        info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-                        Intelligence"
+                        info="Relevant courses included C Language, Data Structures and Algorithms, Theory of Computation and OOP"
                     />
                     <Details
                         type="Online CourseWork" time="November 2022"
