@@ -207,7 +207,7 @@ const projects = () => {
               />
             </div>
 
-            <div className="col-span-12">
+            {/* <div className="col-span-12">
               <FeaturedProject
                 title="NATIVE-WEBGL GAME ENGINE"
                 img={project6}
@@ -263,7 +263,7 @@ const projects = () => {
                 github="/"
                 type="Project"
               />
-            </div>
+            </div> */}
           </div>
         </Layout>
       </main>
